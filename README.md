@@ -1,3 +1,5 @@
+[![PyPI version fury.io](https://badge.fury.io/py/tempenviron.svg)](https://pypi.python.org/pypi/tempenviron/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/tempenviron.svg)](https://pypi.python.org/pypi/tempenviron/)
 [![Build Status](https://travis-ci.org/u1234x1234/tempenviron.svg?branch=master)](https://travis-ci.org/u1234x1234/tempenviron)
 [![Coverage Status](https://coveralls.io/repos/github/u1234x1234/tempenviron/badge.svg?branch=master)](https://coveralls.io/github/u1234x1234/tempenviron?branch=master)
 
