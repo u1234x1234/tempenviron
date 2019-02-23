@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/u1234x1234/temp_environ.svg?branch=master)](https://travis-ci.org/u1234x1234/temp_environ)
-[![Coverage Status](https://coveralls.io/repos/github/u1234x1234/temp_environ/badge.svg?branch=master)](https://coveralls.io/github/u1234x1234/temp_environ?branch=master)
+[![Build Status](https://travis-ci.org/u1234x1234/temp-environ.svg?branch=master)](https://travis-ci.org/u1234x1234/temp-environ)
+[![Coverage Status](https://coveralls.io/repos/github/u1234x1234/temp-environ/badge.svg?branch=master)](https://coveralls.io/github/u1234x1234/temp-environ?branch=master)
 
 # temp_environ
 
