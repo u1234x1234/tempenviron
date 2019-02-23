@@ -7,7 +7,13 @@
 
 `tempenviron` allows you to temporary modify your environment variables with context manager.
 
-## Usage:
+## Install
+
+```bash
+pip install tempenviron
+```
+
+## Usage
 ```python
 from tempenviron import updated_environ
 
