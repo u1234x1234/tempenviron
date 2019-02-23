@@ -1,7 +1,7 @@
 import os
 import pytest
 
-from temp_environ import updated_environ, IllegalArgumentError
+from tempenviron import updated_environ, IllegalArgumentError
 
 
 def test_kwarg_addition():

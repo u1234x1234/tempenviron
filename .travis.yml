@@ -8,6 +8,6 @@ cache: pip
 install:
   - pip install -r requirements.txt
 script:
-  - python -m pytest -s --cov-report term-missing --cov temp_environ -v
+  - python -m pytest -s --cov-report term-missing --cov tempenviron -v
 after_success:
   - coveralls

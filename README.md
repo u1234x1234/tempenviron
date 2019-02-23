@@ -1,13 +1,13 @@
-[![Build Status](https://travis-ci.org/u1234x1234/temp-environ.svg?branch=master)](https://travis-ci.org/u1234x1234/temp-environ)
-[![Coverage Status](https://coveralls.io/repos/github/u1234x1234/temp-environ/badge.svg?branch=master)](https://coveralls.io/github/u1234x1234/temp-environ?branch=master)
+[![Build Status](https://travis-ci.org/u1234x1234/tempenviron.svg?branch=master)](https://travis-ci.org/u1234x1234/tempenviron)
+[![Coverage Status](https://coveralls.io/repos/github/u1234x1234/tempenviron/badge.svg?branch=master)](https://coveralls.io/github/u1234x1234/tempenviron?branch=master)
 
-# temp_environ
+# tempenviron
 
-`temp_environ` allows you to temporary modify your environment variables with context manager.
+`tempenviron` allows you to temporary modify your environment variables with context manager.
 
 ## Usage:
 ```python
-from temp_environ import updated_environ
+from tempenviron import updated_environ
 
 
 # Update with keyword arg
